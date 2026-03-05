@@ -1,5 +1,7 @@
 # 🤖 Análisis de Reseñas de Aplicaciones con GenAI y Dashboard Interactivo
 
+✨[Dashboard generado con AI](https://ai.studio/apps/5985937e-1e3b-4e06-a4f5-c61944138b63) 📊
+
 ## 📌 Descripción
 Este proyecto analiza reseñas de aplicaciones de **Google Play** con el objetivo de comprender la satisfacción de los usuarios, identificar problemas recurrentes y evaluar el impacto de las respuestas del desarrollador.  
 
